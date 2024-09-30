@@ -4,11 +4,7 @@ Cursando o Técnico em Desenvolvimento de Sistemas na ETEC - módulo 2/3
 
 🎨 HTML e CSS básico/intermediário
 
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-
-<!-- in your body -->
-<i class="devicon-devicon-plain"></i> JavaScript básico
+![image](https://github.com/user-attachments/assets/fa3b9bab-7f36-44a7-a968-68fab7504632) JavaScript básico
 
 💻 Python básico/intermediário
 
