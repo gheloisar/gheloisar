@@ -4,7 +4,11 @@ Cursando o Técnico em Desenvolvimento de Sistemas na ETEC - módulo 2/3
 
 🎨 HTML e CSS básico/intermediário
 
-import IconService from 'icon-sdk-js/build/icon-sdk-js.web.min.js'; JavaScript básico
+<!-- in your header -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+
+<!-- in your body -->
+<i class="devicon-devicon-plain"></i> JavaScript básico
 
 💻 Python básico/intermediário
 
